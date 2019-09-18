@@ -47,6 +47,7 @@ var defaultTheme = {
       'display': 'block',
       'margin': '20px auto',
       'width': '100%',
+      'box-shadow':'1px 1px 4px 1px #ddd',
     },
     image_org: {
       'border-radius': '4px',
